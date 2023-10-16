@@ -21,7 +21,7 @@ class car:public automobile
     {
         cout<<" Brand name:"<<name<<endl;
       
-        cout<<" Model number:"<<model;
+        cout<<" Model :"<<model;
     }
 };
 
